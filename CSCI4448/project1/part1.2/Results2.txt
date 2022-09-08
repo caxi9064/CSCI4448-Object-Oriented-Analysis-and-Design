@@ -1,0 +1,13 @@
+Enter a string:
+Bruce
+You entered:Bruce
+URECBCERU
+Enter a string:
+Catherine Xiao
+You entered:Catherine Xiao
+XTRONIIHEECAACEEHIINORTX
+Enter a string:
+
+You entered:
+
+Process finished with exit code 0

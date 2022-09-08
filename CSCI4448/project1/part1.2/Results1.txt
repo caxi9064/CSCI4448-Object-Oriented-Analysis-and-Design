@@ -1,0 +1,74 @@
+*****TEST RUN WITH INTEGERS*****
+Enter the integer:
+0
+List of inputs: [0.0]
+Enter the integer:
+1
+List of inputs: [0.0, 1.0]
+Enter the integer:
+2
+List of inputs: [0.0, 1.0, 2.0]
+Enter the integer:
+3
+List of inputs: [0.0, 1.0, 2.0, 3.0]
+Enter the integer:
+4
+List of inputs: [0.0, 1.0, 2.0, 3.0, 4.0]
+Enter the integer:
+4
+List of inputs: [0.0, 1.0, 2.0, 3.0, 4.0, 4.0]
+Enter the integer:
+5
+List of inputs: [0.0, 1.0, 2.0, 3.0, 4.0, 4.0, 5.0]
+Enter the integer:
+6
+List of inputs: [0.0, 1.0, 2.0, 3.0, 4.0, 4.0, 5.0, 6.0]
+Enter the integer:
+
+List of inputs: [0.0, 1.0, 2.0, 3.0, 4.0, 4.0, 5.0, 6.0]
+Median: 3.5
+Mean: 3.125
+Mode:
+4.0
+Variance: 4.125
+Standard Deviation: 2.03100960115899
+Max Value: 6.0
+Min Value: 0.0
+Max Occurence: 2.0
+Value:
+4.0
+
+Process finished with exit code 0
+
+*****TEST RUN WITH REAL NUMBERS*****
+Enter the integer:
+-1
+List of inputs: [-1.0]
+Enter the integer:
+2.567
+List of inputs: [-1.0, 2.567]
+Enter the integer:
+3.1
+List of inputs: [-1.0, 2.567, 3.1]
+Enter the integer:
+3.1
+List of inputs: [-1.0, 2.567, 3.1, 3.1]
+Enter the integer:
+5
+List of inputs: [-1.0, 2.567, 3.1, 3.1, 5.0]
+Enter the integer:
+7.9
+List of inputs: [-1.0, 2.567, 3.1, 3.1, 5.0, 7.9]
+Enter the integer:
+
+List of inputs: [-1.0, 2.567, 3.1, 3.1, 5.0, 7.9]
+Median: 3.1
+Mean: 3.4445
+Mode: 2.0
+Variance: 8.6064015
+Standard Deviation: 2.933666903382182
+Max Value: 7.9
+Min Value: -1.0
+Max occurrence (Value, Occurrence): 3.1 2.0
+
+Process finished with exit code 0
